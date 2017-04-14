@@ -1,5 +1,5 @@
-Short Lnk
+# Short Lnk
 
-this is a web application for shortening links built off of Meteor and React
+## this is a web application for shortening links built off of Meteor and React
 
 developed and published by Benjamin Sampson
