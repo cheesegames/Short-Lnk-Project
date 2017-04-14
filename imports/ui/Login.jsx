@@ -24,7 +24,7 @@ export default class Login extends Component {
     });
   }
   render() {
-    return ( 
+    return (
       <div className="boxed-view">
         <div className="boxed-view__box">
           <h1>login to short lnk</h1>
